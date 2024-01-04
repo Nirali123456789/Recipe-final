@@ -52,15 +52,19 @@ Styling:
 Consistent styling across all JavaScript using separate CSS files for a polished and responsive design.
 Details Activity:
  Optimized full-screen details activity with a user-friendly back button.
- 
+
 Below some prototype of Recipe app:
 iOS:
-![image](https://github.com/Nirali123456789/Recipe-final/assets/90322848/1d8bea7d-15c9-4837-9acf-736d227aae85)
-![image](https://github.com/Nirali123456789/Recipe-final/assets/90322848/9f2cfd96-f607-4315-8bb3-0b6844c9cde7)
-![image](https://github.com/Nirali123456789/Recipe-final/assets/90322848/e093c7d5-9008-47b0-b451-ebe5a3f2ee18)
-![image](https://github.com/Nirali123456789/Recipe-final/assets/90322848/e3588bde-33c9-4369-95f0-e3816bb8ecdf)
-![image](https://github.com/Nirali123456789/Recipe-final/assets/90322848/0a29242b-9042-42ff-b158-4929c67dda4a)
-![image](https://github.com/Nirali123456789/Recipe-final/assets/90322848/35fd7937-a923-4cee-9b4f-65330d1ddb10)
+ 
+<img width="389" alt="Screenshot 2024-01-04 at 12 54 49 PM" src="https://github.com/Nirali123456789/Recipe-final/assets/90322848/48eca476-57d1-4170-8fd9-f14a4eeeb6d2">
+<img width="389" alt="Screenshot 2024-01-04 at 12 54 35 PM" src="https://github.com/Nirali123456789/Recipe-final/assets/90322848/97037023-7475-4cca-ad91-bc18c29618cd">
+<img width="389" alt="Screenshot 2024-01-04 at 12 54 25 PM" src="https://github.com/Nirali123456789/Recipe-final/assets/90322848/aeca685f-c08e-4b5f-afe8-76b8c5901f0a">
+<img width="389" alt="Screenshot 2024-01-04 at 12 54 09 PM" src="https://github.com/Nirali123456789/Recipe-final/assets/90322848/4b956592-5911-4c3b-98d7-26fc23867e53">
+<img width="389" alt="Screenshot 2024-01-04 at 12 52 34 PM" src="https://github.com/Nirali123456789/Recipe-final/assets/90322848/5f511787-b377-43e7-99d9-4bbfd0955743">
+<img width="389" alt="Screenshot 2024-01-04 at 12 52 27 PM" src="https://github.com/Nirali123456789/Recipe-final/assets/90322848/51cf3bfe-de9c-41c1-9944-32016f4b3e6f">
+<img width="389" alt="Screenshot 2024-01-04 at 12 52 20 PM" src="https://github.com/Nirali123456789/Recipe-final/assets/90322848/99086306-0ab8-4a6f-b7d1-75d7d01a5d08">
+<img width="429" alt="Screenshot 2024-01-04 at 12 52 08 PM" src="https://github.com/Nirali123456789/Recipe-final/assets/90322848/93c33abd-9305-4d0c-af3e-9cca2209f6b9">
+
 
 
 
