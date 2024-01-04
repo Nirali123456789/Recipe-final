@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2f23ae11-9c88-4560-8b2e-0c435128dc46"
+      }
+    },
+    "owner": "nirali_pandya"
   }
 }
